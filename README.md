@@ -1,0 +1,1 @@
+## A desktop screen recorder built with `Electron js` and the media devices web api 
